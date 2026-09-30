@@ -1,0 +1,10 @@
+{
+    "1551225823825101113": {
+        "warnings": {},
+        "triggers": {},
+        "autorole": null,
+        "welcome_channel": null,
+        "welcome_message": "Welcome to the server, {user}! \ud83d\udc09\ud83e\ude77",
+        "apply_channel": null
+    }
+}
